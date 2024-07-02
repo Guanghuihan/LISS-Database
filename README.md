@@ -12,7 +12,7 @@ Diagnosis Research and Medical Education," IEEE Trans. Biomedical Engineering, v
 The download address in the paper is no longer available. 
 
 The new database introduction page (download address) is:
-http://www.iscbit.org/LISS.html
+http://www.mlmrlab.com/LISS.html
 
 For the researchers in China, if you encounter difficulties in downloading the dataset, you can contact me by email: hanguanghui@outlook.com
 
